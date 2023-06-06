@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Isac Vieira</h1>
 <h3 align="center">Sou apaixonado em desenvolvimento de sistemas e entusiasta da tecnologia !</h3>
 
-- 🌱 No momento estou estudando **Java e JavaScrip**
+- 🌱 No momento estou estudando **Java e C#**
 
 - 📫 Você pode me achar através do e-mail **isacvieira2009@hotmail.com**
 
